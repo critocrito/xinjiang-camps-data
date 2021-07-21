@@ -8,7 +8,7 @@
 
 ---
 
-[This database](./Xinjiang_camps_database_BuzzFeed.csv) contains the locations of internment camps and prisons in Xinjiang, China. An earlier version of it was published by BuzzFeed News on 27 August 2020 as part of the articles linked below. The current version added one further camp to the list and updated the status of two more.
+[This database](./Xinjiang_camps_database_BuzzFeed.csv) contains the locations of internment camps and prisons in Xinjiang, China. An earlier version of it was published by BuzzFeed News on 27 August 2020 as part of the articles linked below.
 
 The [main article](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims) gives an overview of our findings. 
 
